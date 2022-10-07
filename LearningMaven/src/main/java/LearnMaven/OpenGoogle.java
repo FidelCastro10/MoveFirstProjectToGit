@@ -19,6 +19,7 @@ public class OpenGoogle {
 		driver.findElement(By.name("q")).sendKeys("fidel");
 		driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
 		driver.close();
+		System.out.println("Fidel");
 
 	}
 
