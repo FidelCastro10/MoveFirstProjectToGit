@@ -20,7 +20,7 @@ public class OpenGoogle {
 		driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
 		driver.close();
 		System.out.println("Fidel");
-		System.out.println("Nithya F");
+		System.out.println("NithyaF");
 		System.out.println("Karl Marx");
 
 	}
