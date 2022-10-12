@@ -22,6 +22,7 @@ public class OpenGoogle {
 		System.out.println("Fidel");
 		System.out.println("NithyaF");
 		System.out.println("Karl Marx");
+		System.out.println("Is configuration working");
 
 	}
 
